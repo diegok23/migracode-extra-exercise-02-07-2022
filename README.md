@@ -28,4 +28,4 @@ Also, we are going to assume that each restaurant:
 - As a user, I can list the restaurants by distance and type of food they offer.
   - I want to see the restaurant sorted by the time it takes to receive the food.
 
-![diagram.png](/images/diagram.png)
+![diagram.png](images/diagram.png)
