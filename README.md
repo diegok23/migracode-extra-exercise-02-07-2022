@@ -14,6 +14,8 @@ You decide to go with a backend application mainly with: NodeJs + PostgreSql. Be
 
 To simplify the problem, we are going to assume that Barcelona is like Eixample. Both users and restaurants can be located by a pair of coordinates. Examples: User with name 'Eduard B.' lives in (3,95), restaurant with name 'El pájaro loco' is located in (54,81), etc.
 
+We are going to assume that ALL streets have 1 road on each direction.
+
 Also, we are going to assume that each restaurant:
 
 - takes a certain amount of time to prepare a specific type of food
