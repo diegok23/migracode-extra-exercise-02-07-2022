@@ -14,9 +14,16 @@ You decide to go with a backend application mainly with: NodeJs + PostgreSql. Be
 
 To simplify the problem, we are going to assume that Barcelona is like Eixample. Both users and restaurants can be located by a pair of coordinates. Examples: User with name 'Eduard B.' lives in (3,95), restaurant with name 'El pájaro loco' is located in (54,81), etc.
 
+Also, we are going to assume that each restaurant:
+
+- takes a certain amount of time to prepare a specific type of food
+- and that the time to transport the food is proportional to the distance between the restaurant and the user that ordered it.
+
 ## Requirements
 
 - As a user, I can see a the list of restaurants that are close to me.
+  - I want to see the restaurant name, the type of food it provides and the location wher the restaurant is.
 - As a user, I can list the restaurants by distance and type of food they offer.
+  - I want to see the restaurant sorted by the time
 
 ![diagram.png](/images/diagram.png)
