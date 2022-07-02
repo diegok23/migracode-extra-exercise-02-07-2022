@@ -22,8 +22,8 @@ Also, we are going to assume that each restaurant:
 ## Requirements
 
 - As a user, I can see a the list of restaurants that are close to me.
-  - I want to see the restaurant name, the type of food it provides and the location wher the restaurant is.
+  - I want to see the restaurant name, the type of food it provides and the location where the restaurant is.
 - As a user, I can list the restaurants by distance and type of food they offer.
-  - I want to see the restaurant sorted by the time
+  - I want to see the restaurant sorted by the time it takes to receive the food.
 
 ![diagram.png](/images/diagram.png)
