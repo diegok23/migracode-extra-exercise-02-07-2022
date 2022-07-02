@@ -18,3 +18,5 @@ To simplify the problem, we are going to assume that Barcelona is like Eixample.
 
 - As a user, I can see a the list of restaurants that are close to me.
 - As a user, I can list the restaurants by distance and type of food they offer.
+
+![diagram.png](/images/diagram.png)
