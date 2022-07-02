@@ -12,7 +12,7 @@ You decide to go with a backend application mainly with: NodeJs + PostgreSql. Be
 
 ## Assumptions
 
-To simplify the problem, we are going to assume that Barcelona is like Eixample. Both users and restaurants can be located by a pair of coordinates. Examples: User with name 'Eduard B.' lifes in (3,95), restaurant with name 'El pájaro loco' is located in (54,81), etc.
+To simplify the problem, we are going to assume that Barcelona is like Eixample. Both users and restaurants can be located by a pair of coordinates. Examples: User with name 'Eduard B.' lives in (3,95), restaurant with name 'El pájaro loco' is located in (54,81), etc.
 
 ## Requirements
 
