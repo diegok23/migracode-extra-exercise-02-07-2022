@@ -27,5 +27,7 @@ Also, we are going to assume that each restaurant:
   - I want to see the restaurant name, the type of food it provides and the location where the restaurant is.
 - As a user, I can FILTER the restaurants by DISTANCE and TYPE OF FOOD they offer.
   - I want to see the restaurant sorted by the time it takes to receive the food.
+- As a restaurant, I produce several types of food.
+  - My cookers take a certain amount of time to prepare each type of food.
 
 ![diagram.png](images/diagram.png)
